@@ -157,7 +157,7 @@ def generate_board(board_width, board_height, turns):
     pcbnew.Refresh()
 
 generate_board(
-    100.0,
     200.0,
+    300.0,
     24
 )
