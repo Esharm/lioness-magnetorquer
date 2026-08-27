@@ -7,7 +7,7 @@ Most important note is that the power draw results depend on the max current set
 
 ![plots](magnetorquer_test.png)
 
-## KiCad Genereated PCBs
+## KiCad Genereated Magnetorquer traces
 ![pcbs1](MTQ10x20.png)
 ![pcbs2](MTQ10x30.png)
 ![pcbs3](MTQ20x30.png)
