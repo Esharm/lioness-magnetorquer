@@ -3,7 +3,7 @@ Simulations for magnetorquer PCB
 
 
 ## Simulation Results
-![plots](generate_magnetorquers.png)
+![plots](magnetorquer_test.png)
 
 ## KiCad Genereated PCBs
 ![pcbs1](MTQ10x20.png)
