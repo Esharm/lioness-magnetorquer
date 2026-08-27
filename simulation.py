@@ -175,6 +175,7 @@ ax_torque.legend()
 
 
 plt.tight_layout()
+plt.savefig("magnetorquer_test.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 # plt.figure()
